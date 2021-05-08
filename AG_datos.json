@@ -1,0 +1,2762 @@
+[
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 9,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.22
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 9,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.22
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 9,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 9,
+   "Ambito": "Población y demografía",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 9,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 7,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 2.86
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 7,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.71
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 7,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 7,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 7,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.57
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 4.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.22
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.44
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Población y demografía",
+   "Valor": 3.11
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.22
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.86
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.91
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Población y demografía",
+   "Valor": 2.68
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.18
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.8
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.6
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 30,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.33
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 30,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.87
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 30,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.83
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 30,
+   "Ambito": "Población y demografía",
+   "Valor": 2.97
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 30,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.63
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 4,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 4,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 4,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.25
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 4,
+   "Ambito": "Población y demografía",
+   "Valor": 2.75
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 4,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.75
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4.5
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Analítico",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 2.8
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.8
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.8
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.6
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1.67
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 10,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 10,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 10,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 10,
+   "Ambito": "Población y demografía",
+   "Valor": 2.4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 10,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.6
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 5,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.6
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 5,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.8
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 5,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 5,
+   "Ambito": "Población y demografía",
+   "Valor": 3.6
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 5,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 1.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1.25
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4.75
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Población y demografía",
+   "Valor": 1.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Sectores económicos",
+   "Valor": 1.75
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 8,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 8,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.38
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 8,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.38
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 8,
+   "Ambito": "Población y demografía",
+   "Valor": 2.88
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 8,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.8
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 6,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 6,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.83
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 6,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 6,
+   "Ambito": "Población y demografía",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 6,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Comunicador",
+   "Edad": "50 o más",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 1.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 4,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 1.75
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 4,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1.25
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 4,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 4,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 4,
+   "Ambito": "Sectores económicos",
+   "Valor": 1.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.44
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.56
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 9,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.89
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.25
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.75
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Población y demografía",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 1.67
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 12,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 12,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.92
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 12,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.42
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 12,
+   "Ambito": "Población y demografía",
+   "Valor": 3.25
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 12,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.75
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Creativo",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Bachillerato",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Bachillerato",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.8
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Economía y finanzas",
+   "Valor": 1.8
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Población y demografía",
+   "Valor": 2.8
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 5,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 11,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.36
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 11,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.64
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 11,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.55
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 11,
+   "Ambito": "Población y demografía",
+   "Valor": 2.82
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 11,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.55
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 6,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 6,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.17
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 6,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 6,
+   "Ambito": "Población y demografía",
+   "Valor": 2.17
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 6,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.67
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 8,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.13
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 8,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 8,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 8,
+   "Ambito": "Población y demografía",
+   "Valor": 2.38
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Ciclo Formativo Grado Medio/Superior",
+   "Personas": 8,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Doctorado",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "ESO",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 1
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "ESO",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 1,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 1,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 1,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 1,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "ESO",
+   "Personas": 1,
+   "Ambito": "Sectores económicos",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.67
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Población y demografía",
+   "Valor": 2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Grado universitario",
+   "Personas": 3,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.33
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.77
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.36
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.09
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Población y demografía",
+   "Valor": 2.59
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Grado universitario",
+   "Personas": 22,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.18
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.2
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Población y demografía",
+   "Valor": 2.4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Grado universitario",
+   "Personas": 5,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.8
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 4.25
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Economía y finanzas",
+   "Valor": 3.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.25
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Población y demografía",
+   "Valor": 3.75
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "50 o más",
+   "Estudios": "Grado universitario",
+   "Personas": 4,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.75
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "16-25",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 4.5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 17,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 3.53
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 17,
+   "Ambito": "Economía y finanzas",
+   "Valor": 2.88
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 17,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 3.12
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 17,
+   "Ambito": "Población y demografía",
+   "Valor": 2.59
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "26-35",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 17,
+   "Ambito": "Sectores económicos",
+   "Valor": 2.76
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Ciencia, tecnología y sociedad digital",
+   "Valor": 5
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Economía y finanzas",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Estadísticas sociales",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Población y demografía",
+   "Valor": 4
+ },
+ {
+   "Perfil": "Planificador",
+   "Edad": "36-49",
+   "Estudios": "Máster/Posgrado",
+   "Personas": 2,
+   "Ambito": "Sectores económicos",
+   "Valor": 3.5
+ }
+]
